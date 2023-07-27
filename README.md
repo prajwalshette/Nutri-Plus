@@ -1,4 +1,4 @@
-#### Nutrifit
+#### Nutriplus
 
 Project is Deployed and Hosted on Netlify 
 Website link : https://64c1f417e01254460f8ec749--candid-palmier-43ba0e.netlify.app/
